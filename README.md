@@ -5,4 +5,5 @@ Hello I am Oscar Galindo and this is my project for the full stack internship at
 I have implemented all the points of the extra credit as well as those expected in the regular credit. The link to access the worker instance that I released for this project is: https://take-home-intern-project.oscargalindom.workers.dev.
 
 Hope to talk to you soon,
+
 -Oscar Galindo
